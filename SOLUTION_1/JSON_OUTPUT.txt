@@ -1,0 +1,34 @@
+{
+   "image_2.jpg": [
+      "image_111.jpg",
+      [
+         262,
+         890,
+         1407,
+         1784
+      ]
+   ]
+}
+{
+   "image_2.jpg": [
+      "image_6.jpg",
+      "# No Crop Association"
+   ]
+}
+{
+   "image_49.jpg": [
+      "image_111.jpg",
+      "# No Crop Association"
+   ]
+}
+{
+   "image_49.jpg": [
+      "image_6.jpg",
+      [
+         122,
+         462,
+         177,
+         574
+      ]
+   ]
+}
