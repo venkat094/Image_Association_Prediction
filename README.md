@@ -1,5 +1,7 @@
 # Image Association Prediction
 
+# GOAL - To identify associations between the provided cropped images and Original images. We will have to specify which cropped image appear in which locations in which of Original image.
+
 Solution 1 :- 
 	
 In this approach, I have taken two sample images from the cropped and original. By applying TM_CCOEFF_NORMED technique , which simply slides the cropped image over the original image (as in 2D convolution) and compares the cropped and patch of original image under the cropped image. If original image is of size (WxH) and cropped image is of size (wxh), output image will have a size of (W-w+1, H-h+1). Once you got the result, you can use cv2.minMaxLoc() function to find where is the maximum/minimum value.
