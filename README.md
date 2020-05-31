@@ -1,4 +1,4 @@
-# Image_Association_Prediction
+# Image Association Prediction
 
 Solution 1 :- 
 	
